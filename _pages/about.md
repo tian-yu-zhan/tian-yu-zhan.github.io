@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Director of Strategic Capability, TA and Safety Statistics at [AbbVie Inc](https://www.abbvie.com/). I obtained my Ph.D. in Biostatistics from University of Michigan Ann Arbor in 2017 under the supervision of Dr. Douglas E. Schaubel, and received my M.S. in Biostatistics in 2015. In the early years, I received dual B.S. degrees in Biology from a 2+2 program at Stony Brook University and Nanjing University in 2013.
-
-My research interests are closely related to late-phase clinical trials.
+I am Director of Strategic Capability, TA and Safety Statistics at [AbbVie](https://www.abbvie.com/). One of my major activities is to work closely with VP of Statistics to ensure alignment within the department of Statistics before key developmental goverance meetings. My research projects are mainly motivated by emerging challeges in clinical development, and have delivered profound business impact at AbbVie. 
 
 
 
