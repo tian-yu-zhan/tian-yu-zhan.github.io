@@ -27,8 +27,8 @@ author:
   name             : "Tianyu Zhan"
   pronouns         : # example: "he/his"  
   bio              : "Director of Strategic Capability, TA and Safety Statistics at AbbVie"
-  location         : "North Chicago"
-  employer         : "AbbVie Inc"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "tianyu.zhan.stats@gmail.com" 
 
