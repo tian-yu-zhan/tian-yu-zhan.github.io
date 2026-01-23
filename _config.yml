@@ -156,7 +156,7 @@ social:
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
+  google:                 G-1BYMS5W5XV
     tracking_id          :
 
 
