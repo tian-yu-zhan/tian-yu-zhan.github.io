@@ -155,7 +155,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:                 "G-1BYMS5W5XV"
     tracking_id          :
 
