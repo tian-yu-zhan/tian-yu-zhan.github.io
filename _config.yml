@@ -156,8 +156,8 @@ social:
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:                 "G-1BYMS5W5XV"
-    tracking_id          :
+  google:                 
+    tracking_id          : "G-1BYMS5W5XV"
 
 
 # Reading Files
